@@ -1,5 +1,5 @@
 # starwars-app
-The Star Movie App is an interactive React-based application designed to provide detailed information about movies. Featuring an elegant UI and seamless functionality, this app allows users to explore movie details, ratings, and more. It's a perfect blend of technology and cinematic love!
+The Star Wars Movie App is an interactive React-based application designed to provide detailed information about movies. Featuring an elegant UI and seamless functionality, this app allows users to explore movie details, ratings, and more. It's a perfect blend of technology and cinematic love!
 
 # Features 🚀
 Dynamic Movie Details: Displays essential information like the title, director, producer, release year, and synopsis.
@@ -9,7 +9,7 @@ Poster Integration: Includes visually appealing movie posters sourced dynamicall
 Star Ratings Component: Showcases movie ratings with a custom star rating system.
 
 # Tech Stack 🛠️
-Frontend: React, Tailwind CSS, React Icons
+Frontend: React, Tailwind CSS
 
 # Getting Started with Create React App
 
